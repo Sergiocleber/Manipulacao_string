@@ -1,1 +1,0 @@
-# Manipulacao_string
